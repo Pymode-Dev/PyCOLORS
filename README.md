@@ -1,4 +1,4 @@
-## COLORS
+## PyCOLORS
 A Python project that produces colors for your Web Development and Desktop Application Development Projects.
 
 Use color in any of your project that needs color such as:
