@@ -5,6 +5,8 @@ class Colors:
     ORANGE = '#ffa500'
     WHITE = '#ffffff'
     LIGHT_BLUE = '#5799ef'
+    
+class Red(Colors):
     RED = '#ff0000'
     LIGHT_SALMON = '#ffa07a'
     LIGHT_CORAL = '#f08080'
@@ -22,3 +24,12 @@ class Colors:
     FRENCH_PUCE = '#4e1609'
     ROSEWOOD = '#65000b'
     CLARET = '#7f1734'
+
+class Green(Colors):
+    ...
+
+class Blue(Colors):
+    ...
+
+class Brown(Colors):
+    ...
