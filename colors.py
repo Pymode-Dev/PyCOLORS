@@ -1,3 +1,8 @@
+"""
+Colors picker for your Python GUI Application and
+Web Application without going online again.
+"""
+
 class Colors:
     """Class For the COLORS"""
     BLACK = '#121212'
