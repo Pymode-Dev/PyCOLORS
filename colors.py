@@ -3,6 +3,7 @@ Colors picker for your Python GUI Application and
 Web Application without going online again.
 """
 
+
 class Colors:
     """Class For the COLORS"""
     BLACK = '#121212'
@@ -10,8 +11,9 @@ class Colors:
     ORANGE = '#ffa500'
     WHITE = '#ffffff'
     LIGHT_BLUE = '#5799ef'
-    
-class Red(Colors):
+
+
+class Red:
     RED = '#ff0000'
     LIGHT_SALMON = '#ffa07a'
     LIGHT_CORAL = '#f08080'
@@ -19,7 +21,7 @@ class Red(Colors):
     DARK_SALMON = '#e9967a'
     TOMATO = '#ff6347'
     INDIAN_RED = '#cd5c5c'
-    ORANGE_RED =  '#ff4500'
+    ORANGE_RED = '#ff4500'
     PASTEL_RED = '#ff6961'
     BITTERSWEET = '#fe6f5e'
     MAROON = '#800000'
@@ -30,11 +32,14 @@ class Red(Colors):
     ROSEWOOD = '#65000b'
     CLARET = '#7f1734'
 
-class Green(Colors):
+
+class Green:
     ...
 
-class Blue(Colors):
+
+class Blue:
     ...
 
-class Brown(Colors):
+
+class Brown:
     ...
